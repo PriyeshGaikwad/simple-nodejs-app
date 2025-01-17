@@ -4,7 +4,7 @@ name: Node.js Build
 on:
   push:
     branches:
-      - main
+      - master
 
 # Define the jobs to run in the workflow
 jobs:
